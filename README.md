@@ -1,0 +1,2 @@
+# KMU_2020_2_AI_Big_Data_Programming
+Basic Understanding of Python Programming
